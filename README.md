@@ -25,7 +25,7 @@ Prerequisites:
 3. Signup for Datadog trial account
 4. git - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 5. helm >3.7.x - For Mac - `brew install helm`, For windows - `choco install kubernetes-helm`
-# 6. aws cli >2.x - https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+(6. aws cli >2.x - https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 7. terraform - https://learn.hashicorp.com/tutorials/terraform/install-cli
 8. kubectl - https://kubernetes.io/docs/tasks/tools/
 
