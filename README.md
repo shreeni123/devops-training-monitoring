@@ -63,4 +63,13 @@ Getting started:
 `helm install datadog-agent -f values.yaml --set datadog.apiKey=<API Key from DD account> --set datadog.dd_url=<your datadog site url eg.: https://us3.datadoghq.com/ > datadog/datadog --set targetSystem=linux`
 
 
+** OBSERVING METRICS, DASHBOARDS - CONTAINER, PODS, DAEMONSETS MONITORING **
+** SETTING UP BASIC ALERTS **
+
+Further reading:
+https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook
+
+
+
+
 
