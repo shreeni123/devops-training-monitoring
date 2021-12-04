@@ -17,7 +17,7 @@ Why observability matters?
 
 
 
-**Datadog training:**
+**RANCHER DATADOG DEMO:**
 
 Prerequisites:
 1. Active AWS account with admin access
