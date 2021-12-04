@@ -70,6 +70,8 @@ Further reading:
 https://www.slideshare.net/OpsStack/how-to-monitoring-the-sre-golden-signals-ebook
 
 ** WINDING UP **
+
+
 ` terraform destroy`
 
 
