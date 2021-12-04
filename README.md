@@ -25,7 +25,7 @@ Prerequisites:
 3. Signup for Datadog trial account
 4. git - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 5. helm >3.7.x - For Mac - `brew install helm`, For windows - `choco install kubernetes-helm`
-6. aws cli >2.x - https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+# 6. aws cli >2.x - https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 7. terraform - https://learn.hashicorp.com/tutorials/terraform/install-cli
 8. kubectl - https://kubernetes.io/docs/tasks/tools/
 
@@ -34,7 +34,7 @@ Getting started:
 **RANCHER (Kubernetes cluster)**
 
 1. Clone https://github.com/shreeni123/devops-training-monitoring.git to local
-2. `cd rancher/quickstart/aws`
+2. `cd devops-training-monitoring/rancher/quickstart/aws`
 3. Rename terraform.tfvars.example to terraform.tfvars and fill in values for following variables with actual ones:
 
     `aws_access_key`
