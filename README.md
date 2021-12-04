@@ -60,7 +60,7 @@ Getting started:
 
 `helm repo update`
 
-`helm install datadog-agent -f values.yaml --set datadog.apiKey=<API Key from DD account> --set datadog.dd_url=<your datadog site url eg.: https://us3.datadoghq.com/ > datadog/datadog --set targetSystem=linux`
+`helm install datadog-agent -f values.yaml --set datadog.apiKey=<API Key from DD account> --set datadog.dd_url=https://us3.datadoghq.com/ datadog/datadog --set targetSystem=linux`
 
 
 ** OBSERVING METRICS, DASHBOARDS - CONTAINER, PODS, DAEMONSETS MONITORING **
