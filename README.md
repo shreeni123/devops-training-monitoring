@@ -34,7 +34,7 @@ Getting started:
 **RANCHER (Kubernetes cluster)**
 
 1. Clone https://github.com/shreeni123/devops-training-monitoring.git to local
-2. `cd devops-training-monitoring/rancher/quickstart/aws`
+2. `cd devops-training-monitoring/rancher/aws`
 3. Rename terraform.tfvars.example to terraform.tfvars and fill in values for following variables with actual ones:
 
     `aws_access_key`
